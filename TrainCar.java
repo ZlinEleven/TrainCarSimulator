@@ -1,5 +1,3 @@
-/* Zhenbin Lin, 114866923, Recitation section 04 */
-
 /**
  * This class represents a train car object with attributes: length of car,
  * weight of car, and the product load that it contains

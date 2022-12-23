@@ -1,5 +1,3 @@
-/* Zhenbin Lin, 114866923, Recitation section 04 */
-
 /**
  * This class represents a train load with attributes: product name, weight, value, 
  * and whether it is dangerous or not

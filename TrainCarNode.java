@@ -1,6 +1,3 @@
-/* Zhenbin Lin, 114866923, Recitation section 04 */
-
-
 /**
  * A node wrapper class that will hold a TrainCar object. This node object will
  * be used in a doubly linked list
